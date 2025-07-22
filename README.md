@@ -1,10 +1,4 @@
-<h1 align="center">Hi, I'm Riya 👋</h1>
 
-<p align="center">
-Aspiring Software Engineer | Passionate about Frontend & Full Stack Web Development | Continuous Learner 🚀
-</p>
-
----
 
 ### 💫 About Me
 - 🎓 Final year student with a strong interest in web development
@@ -48,4 +42,8 @@ Git | GitHub | VS Code | Postman
 📧 Email: yourname@email.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/your-link) *(replace this with your LinkedIn)*  
 🌐 Portfolio: [riyatj.github.io](https://riyatj.github.io)
+
+![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=riyatj&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyatj&layout=compact&theme=radical)
+
 
