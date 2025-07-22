@@ -43,7 +43,9 @@ Git | GitHub | VS Code | Postman
 🔗 [LinkedIn](https://www.linkedin.com/in/your-link) *(replace this with your LinkedIn)*  
 🌐 Portfolio: [riyatj.github.io](https://riyatj.github.io)
 
-![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=riyatj&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyatj&layout=compact&theme=radical)
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=riyatj&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
